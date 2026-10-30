@@ -1,3 +1,5 @@
+> **Ovia Inc fork** — We maintain this fork of [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx), the native MLX runtime for Laya typed decision models — 7–14 ms short decisions on Apple silicon, with no text generation, PyTorch, or cloud API. We evaluate it alongside our laya fork for fast, local decision layers in agent systems. Upstream credit: the laya-mlx authors. License: Apache-2.0 (see LICENSE). The upstream project is documented below.
+
 # Laya-MLX
 
 ![Laya MLX playing Snake — actual decisions, original speed](https://raw.githubusercontent.com/mizorewww/laya-mlx/main/docs/assets/snake-demo.gif)
